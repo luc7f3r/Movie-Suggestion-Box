@@ -1,0 +1,11 @@
+h1{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.jumbotron{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  color: rgb(31, 226, 74);
+  background-color:rgb(28, 26, 26);
+}
+body{
+  background-image: url("horror-movies-collage.jpg");
+}
